@@ -1,0 +1,649 @@
+Time: 0m0s - Junction A: Vehicle 2 moved to Industrial Park
+Time: 0m10s - Junction A: Vehicle 4 moved to Station
+Time: 0m20s - Junction A: Vehicle 6 moved to Industrial Park
+Time: 0m30s - Junction A: Vehicle 9 moved to Industrial Park
+Time: 0m30s - Junction A: Vehicle 11 moved to University
+Time: 0m40s - Junction A: Vehicle 14 moved to University
+Time: 0m50s - Junction A: Vehicle 15 moved to Industrial Park
+Time: 1m0s - Junction A: Vehicle 17 moved to Shopping Centre
+Time: 1m0s - Junction A: Vehicle 19 moved to Shopping Centre
+Time: 1m10s - Junction A: Vehicle 22 moved to Industrial Park
+Time: 1m20s - Junction A: Vehicle 24 moved to Industrial Park
+Time: 1m30s - Junction A: Vehicle 26 moved to Industrial Park
+Time: 1m30s - Junction A: Green phase ended: 12 cars through from From South, 0 waiting.
+Time: 1m40s - Junction A: Vehicle 3 moved to Industrial Park
+Time: 1m40s - Junction A: Vehicle 8 moved to Industrial Park
+Time: 2m0s - Junction A: Vehicle 27 moved to Industrial Park
+Time: 2m10s - Junction A: Vehicle 37 moved to Industrial Park
+Time: 2m50s - Junction A: Vehicle 48 moved to Industrial Park
+Time: 3m0s - Junction A: Green phase ended: 5 cars through from From B, 0 waiting.
+Time: 3m0s - Junction A: Vehicle 29 moved to Industrial Park
+Time: 3m10s - Junction A: Vehicle 31 moved to Shopping Centre
+Time: 3m10s - Junction A: Vehicle 34 moved to Station
+Time: 3m20s - Junction A: Vehicle 36 moved to Industrial Park
+Time: 3m20s - Junction A: Vehicle 38 moved to Industrial Park
+Time: 3m30s - Junction A: Vehicle 40 moved to Shopping Centre
+Time: 3m30s - Junction A: Vehicle 43 moved to Shopping Centre
+Time: 3m40s - Junction A: Vehicle 45 moved to Shopping Centre
+Time: 3m40s - Junction A: Vehicle 46 moved to Shopping Centre
+Time: 3m50s - Junction A: Vehicle 50 moved to Industrial Park
+Time: 3m50s - Junction A: Vehicle 51 moved to Industrial Park
+Time: 4m0s - Junction A: Vehicle 53 moved to University
+Time: 4m0s - Junction A: GRIDLOCK for Vehicle 55 to University
+Time: 4m0s - Junction A: GRIDLOCK for Vehicle 59 to Shopping Centre
+Time: 4m10s - Junction A: GRIDLOCK for Vehicle 61 to Shopping Centre
+Time: 4m20s - Junction A: Vehicle 63 moved to Industrial Park
+Time: 4m20s - Junction A: GRIDLOCK for Vehicle 65 to Station
+Time: 4m20s - Junction A: GRIDLOCK for Vehicle 67 to Station
+Time: 4m30s - Junction A: Green phase ended: 13 cars through from From South, 9 waiting.
+Time: 4m30s - Junction A: Vehicle 1 moved to Industrial Park
+Time: 4m40s - Junction A: Vehicle 7 moved to Industrial Park
+Time: 4m40s - Junction A: Vehicle 10 moved to Industrial Park
+Time: 4m50s - Junction A: Vehicle 20 moved to Industrial Park
+Time: 4m50s - Junction A: Vehicle 24 moved to Industrial Park
+Time: 5m0s - Junction A: Vehicle 28 moved to Industrial Park
+Time: 5m0s - Junction A: Vehicle 41 moved to Industrial Park
+Time: 6m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
+Time: 6m0s - Junction A: Vehicle 70 moved to Industrial Park
+Time: 6m10s - Junction A: Vehicle 55 moved to University
+Time: 6m10s - Junction A: Vehicle 59 moved to Shopping Centre
+Time: 6m20s - Junction A: Vehicle 72 moved to Shopping Centre
+Time: 6m20s - Junction A: Vehicle 61 moved to Shopping Centre
+Time: 6m30s - Junction A: Vehicle 75 moved to Industrial Park
+Time: 6m30s - Junction A: Vehicle 65 moved to Station
+Time: 6m40s - Junction A: Vehicle 77 moved to Industrial Park
+Time: 6m40s - Junction A: Vehicle 67 moved to Station
+Time: 6m50s - Junction A: Vehicle 80 moved to Shopping Centre
+Time: 6m50s - Junction A: GRIDLOCK for Vehicle 82 to Shopping Centre
+Time: 6m50s - Junction A: GRIDLOCK for Vehicle 85 to Shopping Centre
+Time: 7m0s - Junction A: GRIDLOCK for Vehicle 87 to University
+Time: 7m0s - Junction A: GRIDLOCK for Vehicle 89 to University
+Time: 7m10s - Junction A: GRIDLOCK for Vehicle 92 to Shopping Centre
+Time: 7m20s - Junction A: Vehicle 94 moved to Industrial Park
+Time: 7m20s - Junction A: GRIDLOCK for Vehicle 97 to Station
+Time: 7m20s - Junction A: GRIDLOCK for Vehicle 99 to Shopping Centre
+Time: 7m30s - Junction A: Green phase ended: 11 cars through from From South, 21 waiting.
+Time: 7m30s - Junction A: Vehicle 78 moved to Industrial Park
+Time: 7m40s - Junction A: Vehicle 95 moved to Industrial Park
+Time: 7m40s - Junction A: Vehicle 105 moved to Industrial Park
+Time: 7m50s - Junction A: Vehicle 47 moved to Industrial Park
+Time: 7m50s - Junction A: Vehicle 49 moved to Industrial Park
+Time: 8m0s - Junction A: Vehicle 54 moved to Industrial Park
+Time: 8m0s - Junction A: Vehicle 58 moved to Industrial Park
+Time: 8m10s - Junction A: Vehicle 66 moved to Industrial Park
+Time: 8m10s - Junction A: Vehicle 69 moved to Industrial Park
+Time: 8m20s - Junction A: Vehicle 76 moved to Industrial Park
+Time: 8m20s - Junction A: Vehicle 79 moved to Industrial Park
+Time: 8m30s - Junction A: Vehicle 84 moved to Industrial Park
+Time: 8m30s - Junction A: Vehicle 88 moved to Industrial Park
+Time: 8m40s - Junction A: Vehicle 91 moved to Industrial Park
+Time: 8m40s - Junction A: Vehicle 98 moved to Industrial Park
+Time: 8m50s - Junction A: Vehicle 101 moved to Industrial Park
+Time: 8m50s - Junction A: Vehicle 113 moved to Industrial Park
+Time: 9m0s - Junction A: Vehicle 115 moved to Industrial Park
+Time: 9m0s - Junction A: Green phase ended: 18 cars through from From B, 1 waiting.
+Time: 9m0s - Junction A: Vehicle 102 moved to Industrial Park
+Time: 9m10s - Junction A: Vehicle 104 moved to Station
+Time: 9m10s - Junction A: Vehicle 107 moved to Station
+Time: 9m20s - Junction A: Vehicle 109 moved to Industrial Park
+Time: 9m20s - Junction A: Vehicle 111 moved to Industrial Park
+Time: 9m30s - Junction A: Vehicle 114 moved to Shopping Centre
+Time: 9m30s - Junction A: Vehicle 116 moved to Station
+Time: 9m40s - Junction A: Vehicle 119 moved to Industrial Park
+Time: 9m40s - Junction A: Vehicle 121 moved to Shopping Centre
+Time: 9m50s - Junction A: Vehicle 82 moved to Shopping Centre
+Time: 9m50s - Junction A: Vehicle 85 moved to Shopping Centre
+Time: 10m0s - Junction A: Vehicle 124 moved to Industrial Park
+Time: 10m0s - Junction A: Vehicle 87 moved to University
+Time: 10m10s - Junction A: Vehicle 126 moved to Station
+Time: 10m10s - Junction A: Vehicle 89 moved to University
+Time: 10m20s - Junction A: Vehicle 92 moved to Shopping Centre
+Time: 10m20s - Junction A: Vehicle 129 moved to Industrial Park
+Time: 10m30s - Junction A: Vehicle 131 moved to Industrial Park
+Time: 10m30s - Junction A: Green phase ended: 18 cars through from From South, 25 waiting.
+Time: 10m30s - Junction A: Vehicle 120 moved to Industrial Park
+Time: 11m10s - Junction A: Vehicle 171 moved to Industrial Park
+Time: 11m20s - Junction A: Vehicle 188 moved to Industrial Park
+Time: 11m30s - Junction A: Vehicle 200 moved to Industrial Park
+Time: 11m40s - Junction A: Vehicle 205 moved to Industrial Park
+Time: 12m0s - Junction A: Green phase ended: 5 cars through from From B, 0 waiting.
+Time: 12m0s - Junction A: Vehicle 97 moved to Station
+Time: 12m10s - Junction A: Vehicle 99 moved to Shopping Centre
+Time: 12m10s - Junction A: Vehicle 133 moved to Shopping Centre
+Time: 12m20s - Junction A: Vehicle 136 moved to Industrial Park
+Time: 12m20s - Junction A: Vehicle 138 moved to University
+Time: 12m30s - Junction A: Vehicle 141 moved to Industrial Park
+Time: 12m30s - Junction A: Vehicle 143 moved to Shopping Centre
+Time: 12m40s - Junction A: Vehicle 146 moved to Industrial Park
+Time: 12m40s - Junction A: Vehicle 148 moved to Shopping Centre
+Time: 12m50s - Junction A: Vehicle 151 moved to Shopping Centre
+Time: 12m50s - Junction A: GRIDLOCK for Vehicle 153 to Shopping Centre
+Time: 13m0s - Junction A: Vehicle 155 moved to Industrial Park
+Time: 13m0s - Junction A: GRIDLOCK for Vehicle 158 to University
+Time: 13m0s - Junction A: GRIDLOCK for Vehicle 160 to Shopping Centre
+Time: 13m10s - Junction A: GRIDLOCK for Vehicle 163 to Shopping Centre
+Time: 13m10s - Junction A: GRIDLOCK for Vehicle 165 to Shopping Centre
+Time: 13m20s - Junction A: GRIDLOCK for Vehicle 168 to Shopping Centre
+Time: 13m20s - Junction A: GRIDLOCK for Vehicle 170 to Shopping Centre
+Time: 13m30s - Junction A: Green phase ended: 11 cars through from From South, 37 waiting.
+Time: 13m30s - Junction A: Vehicle 125 moved to Industrial Park
+Time: 13m40s - Junction A: Vehicle 132 moved to Industrial Park
+Time: 13m40s - Junction A: Vehicle 140 moved to Industrial Park
+Time: 13m50s - Junction A: Vehicle 147 moved to Industrial Park
+Time: 13m50s - Junction A: Vehicle 157 moved to Industrial Park
+Time: 14m0s - Junction A: Vehicle 162 moved to Industrial Park
+Time: 14m0s - Junction A: Vehicle 164 moved to Industrial Park
+Time: 15m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
+Time: 15m0s - Junction A: Vehicle 173 moved to Station
+Time: 15m10s - Junction A: Vehicle 175 moved to University
+Time: 15m10s - Junction A: Vehicle 177 moved to Industrial Park
+Time: 15m20s - Junction A: Vehicle 180 moved to Industrial Park
+Time: 15m20s - Junction A: Vehicle 182 moved to Shopping Centre
+Time: 15m30s - Junction A: Vehicle 185 moved to Industrial Park
+Time: 15m30s - Junction A: Vehicle 187 moved to Industrial Park
+Time: 15m40s - Junction A: Vehicle 190 moved to Shopping Centre
+Time: 15m40s - Junction A: Vehicle 192 moved to Industrial Park
+Time: 15m50s - Junction A: Vehicle 195 moved to Industrial Park
+Time: 15m50s - Junction A: Vehicle 197 moved to Industrial Park
+Time: 16m0s - Junction A: Vehicle 199 moved to Shopping Centre
+Time: 16m0s - Junction A: Vehicle 202 moved to Industrial Park
+Time: 16m10s - Junction A: Vehicle 204 moved to Shopping Centre
+Time: 16m10s - Junction A: Vehicle 207 moved to Station
+Time: 16m20s - Junction A: Vehicle 209 moved to Industrial Park
+Time: 16m20s - Junction A: GRIDLOCK for Vehicle 212 to Shopping Centre
+Time: 16m30s - Junction A: Vehicle 214 moved to Industrial Park
+Time: 16m30s - Junction A: Green phase ended: 17 cars through from From South, 42 waiting.
+Time: 16m30s - Junction A: Vehicle 227 moved to Industrial Park
+Time: 16m40s - Junction A: Vehicle 232 moved to Industrial Park
+Time: 16m40s - Junction A: Vehicle 271 moved to Industrial Park
+Time: 16m50s - Junction A: Vehicle 276 moved to Industrial Park
+Time: 16m50s - Junction A: Vehicle 169 moved to Industrial Park
+Time: 17m0s - Junction A: Vehicle 172 moved to Industrial Park
+Time: 17m0s - Junction A: Vehicle 174 moved to Industrial Park
+Time: 17m10s - Junction A: Vehicle 176 moved to Industrial Park
+Time: 17m10s - Junction A: Vehicle 191 moved to Industrial Park
+Time: 17m20s - Junction A: Vehicle 194 moved to Industrial Park
+Time: 17m20s - Junction A: Vehicle 201 moved to Industrial Park
+Time: 17m30s - Junction A: Vehicle 203 moved to Industrial Park
+Time: 17m30s - Junction A: Vehicle 208 moved to Industrial Park
+Time: 17m40s - Junction A: Vehicle 211 moved to Industrial Park
+Time: 17m40s - Junction A: Vehicle 218 moved to Industrial Park
+Time: 17m40s - Junction A: GRIDLOCK for Vehicle 225 to Industrial Park
+Time: 17m50s - Junction A: Vehicle 240 moved to Industrial Park
+Time: 17m50s - Junction A: GRIDLOCK for Vehicle 225 to Industrial Park
+Time: 18m0s - Junction A: Green phase ended: 16 cars through from From B, 1 waiting.
+Time: 18m0s - Junction A: GRIDLOCK for Vehicle 217 to Shopping Centre
+Time: 18m10s - Junction A: Vehicle 219 moved to Industrial Park
+Time: 18m10s - Junction A: GRIDLOCK for Vehicle 222 to Industrial Park
+Time: 18m20s - Junction A: Vehicle 224 moved to Industrial Park
+Time: 18m20s - Junction A: Vehicle 226 moved to Station
+Time: 18m30s - Junction A: Vehicle 229 moved to Industrial Park
+Time: 18m30s - Junction A: Vehicle 231 moved to Shopping Centre
+Time: 18m40s - Junction A: Vehicle 153 moved to Shopping Centre
+Time: 18m40s - Junction A: Vehicle 234 moved to Station
+Time: 18m50s - Junction A: Vehicle 158 moved to University
+Time: 18m50s - Junction A: Vehicle 236 moved to Shopping Centre
+Time: 19m0s - Junction A: Vehicle 160 moved to Shopping Centre
+Time: 19m0s - Junction A: Vehicle 163 moved to Shopping Centre
+Time: 19m10s - Junction A: Vehicle 239 moved to Industrial Park
+Time: 19m10s - Junction A: Vehicle 165 moved to Shopping Centre
+Time: 19m20s - Junction A: Vehicle 241 moved to University
+Time: 19m20s - Junction A: Vehicle 168 moved to Shopping Centre
+Time: 19m30s - Junction A: Vehicle 170 moved to Shopping Centre
+Time: 19m30s - Junction A: Green phase ended: 16 cars through from From South, 49 waiting.
+Time: 19m30s - Junction A: Vehicle 225 moved to Industrial Park
+Time: 19m40s - Junction A: Vehicle 255 moved to Industrial Park
+Time: 20m10s - Junction A: Vehicle 337 moved to Industrial Park
+Time: 20m20s - Junction A: Vehicle 352 moved to Industrial Park
+Time: 20m50s - Junction A: Vehicle 369 moved to Industrial Park
+Time: 21m0s - Junction A: Green phase ended: 5 cars through from From B, 0 waiting.
+Time: 21m0s - Junction A: Vehicle 244 moved to Industrial Park
+Time: 21m10s - Junction A: Vehicle 246 moved to Industrial Park
+Time: 21m10s - Junction A: Vehicle 248 moved to Station
+Time: 21m20s - Junction A: Vehicle 251 moved to Station
+Time: 21m20s - Junction A: Vehicle 253 moved to Station
+Time: 21m30s - Junction A: Vehicle 256 moved to Industrial Park
+Time: 21m30s - Junction A: Vehicle 258 moved to Industrial Park
+Time: 21m40s - Junction A: Vehicle 261 moved to Shopping Centre
+Time: 21m40s - Junction A: Vehicle 263 moved to Station
+Time: 21m50s - Junction A: Vehicle 266 moved to University
+Time: 21m50s - Junction A: GRIDLOCK for Vehicle 268 to Shopping Centre
+Time: 21m50s - Junction A: GRIDLOCK for Vehicle 270 to Shopping Centre
+Time: 22m0s - Junction A: GRIDLOCK for Vehicle 273 to Shopping Centre
+Time: 22m10s - Junction A: Vehicle 275 moved to Industrial Park
+Time: 22m10s - Junction A: GRIDLOCK for Vehicle 278 to University
+Time: 22m10s - Junction A: GRIDLOCK for Vehicle 280 to Shopping Centre
+Time: 22m20s - Junction A: GRIDLOCK for Vehicle 283 to Shopping Centre
+Time: 22m20s - Junction A: GRIDLOCK for Vehicle 285 to Station
+Time: 22m30s - Junction A: Green phase ended: 11 cars through from From South, 60 waiting.
+Time: 22m30s - Junction A: Vehicle 257 moved to Industrial Park
+Time: 22m40s - Junction A: Vehicle 262 moved to Industrial Park
+Time: 22m40s - Junction A: Vehicle 267 moved to Industrial Park
+Time: 22m50s - Junction A: Vehicle 272 moved to Industrial Park
+Time: 22m50s - Junction A: Vehicle 274 moved to Industrial Park
+Time: 23m0s - Junction A: Vehicle 279 moved to Industrial Park
+Time: 23m0s - Junction A: Vehicle 284 moved to Industrial Park
+Time: 24m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
+Time: 24m0s - Junction A: Vehicle 288 moved to Industrial Park
+Time: 24m10s - Junction A: Vehicle 290 moved to Shopping Centre
+Time: 24m10s - Junction A: Vehicle 292 moved to Industrial Park
+Time: 24m20s - Junction A: Vehicle 295 moved to Industrial Park
+Time: 24m20s - Junction A: Vehicle 212 moved to Shopping Centre
+Time: 24m30s - Junction A: Vehicle 297 moved to Station
+Time: 24m30s - Junction A: Vehicle 300 moved to University
+Time: 24m40s - Junction A: Vehicle 302 moved to Industrial Park
+Time: 24m40s - Junction A: Vehicle 305 moved to University
+Time: 24m50s - Junction A: Vehicle 307 moved to Industrial Park
+Time: 24m50s - Junction A: Vehicle 310 moved to Industrial Park
+Time: 25m0s - Junction A: Vehicle 312 moved to University
+Time: 25m0s - Junction A: Vehicle 314 moved to Industrial Park
+Time: 25m10s - Junction A: Vehicle 317 moved to Industrial Park
+Time: 25m10s - Junction A: Vehicle 319 moved to Station
+Time: 25m10s - Junction A: GRIDLOCK for Vehicle 322 to Shopping Centre
+Time: 25m20s - Junction A: GRIDLOCK for Vehicle 324 to Shopping Centre
+Time: 25m20s - Junction A: GRIDLOCK for Vehicle 327 to Shopping Centre
+Time: 25m30s - Junction A: Green phase ended: 15 cars through from From South, 56 waiting.
+Time: 25m30s - Junction A: Vehicle 386 moved to Industrial Park
+Time: 25m40s - Junction A: Vehicle 391 moved to Industrial Park
+Time: 25m40s - Junction A: Vehicle 403 moved to Industrial Park
+Time: 25m50s - Junction A: Vehicle 418 moved to Industrial Park
+Time: 25m50s - Junction A: Vehicle 425 moved to Industrial Park
+Time: 26m0s - Junction A: Vehicle 430 moved to Industrial Park
+Time: 26m0s - Junction A: Vehicle 435 moved to Industrial Park
+Time: 26m10s - Junction A: Vehicle 291 moved to Industrial Park
+Time: 26m10s - Junction A: Vehicle 301 moved to Industrial Park
+Time: 26m20s - Junction A: Vehicle 304 moved to Industrial Park
+Time: 26m20s - Junction A: Vehicle 306 moved to Industrial Park
+Time: 26m30s - Junction A: Vehicle 311 moved to Industrial Park
+Time: 26m30s - Junction A: Vehicle 316 moved to Industrial Park
+Time: 26m40s - Junction A: Vehicle 323 moved to Industrial Park
+Time: 26m40s - Junction A: Vehicle 326 moved to Industrial Park
+Time: 26m40s - Junction A: GRIDLOCK for Vehicle 328 to Industrial Park
+Time: 26m50s - Junction A: Vehicle 216 moved to Industrial Park
+Time: 26m50s - Junction A: GRIDLOCK for Vehicle 353 to Industrial Park
+Time: 27m0s - Junction A: Green phase ended: 16 cars through from From B, 6 waiting.
+Time: 27m0s - Junction A: GRIDLOCK for Vehicle 217 to Shopping Centre
+Time: 27m10s - Junction A: Vehicle 329 moved to Industrial Park
+Time: 27m10s - Junction A: Vehicle 222 moved to Industrial Park
+Time: 27m20s - Junction A: Vehicle 332 moved to Station
+Time: 27m20s - Junction A: Vehicle 334 moved to Station
+Time: 27m30s - Junction A: Vehicle 336 moved to Station
+Time: 27m30s - Junction A: Vehicle 339 moved to Industrial Park
+Time: 27m40s - Junction A: Vehicle 341 moved to Industrial Park
+Time: 27m40s - Junction A: Vehicle 344 moved to Shopping Centre
+Time: 27m40s - Junction A: GRIDLOCK for Vehicle 346 to Industrial Park
+Time: 27m50s - Junction A: Vehicle 349 moved to Industrial Park
+Time: 27m50s - Junction A: GRIDLOCK for Vehicle 351 to Industrial Park
+Time: 28m0s - Junction A: Vehicle 354 moved to Station
+Time: 28m10s - Junction A: Vehicle 356 moved to Industrial Park
+Time: 28m10s - Junction A: Vehicle 358 moved to Industrial Park
+Time: 28m10s - Junction A: GRIDLOCK for Vehicle 361 to Industrial Park
+Time: 28m20s - Junction A: GRIDLOCK for Vehicle 363 to Industrial Park
+Time: 28m30s - Junction A: Vehicle 366 moved to Station
+Time: 28m30s - Junction A: Green phase ended: 13 cars through from From South, 57 waiting.
+Time: 28m30s - Junction A: Vehicle 357 moved to Industrial Park
+Time: 28m40s - Junction A: Vehicle 328 moved to Industrial Park
+Time: 28m40s - Junction A: GRIDLOCK for Vehicle 377 to Industrial Park
+Time: 28m40s - Junction A: GRIDLOCK for Vehicle 379 to Industrial Park
+Time: 28m50s - Junction A: Vehicle 353 moved to Industrial Park
+Time: 28m50s - Junction A: GRIDLOCK for Vehicle 382 to Industrial Park
+Time: 29m0s - Junction A: Vehicle 384 moved to Industrial Park
+Time: 29m0s - Junction A: GRIDLOCK for Vehicle 440 to Industrial Park
+Time: 29m10s - Junction A: Vehicle 377 moved to Industrial Park
+Time: 29m10s - Junction A: GRIDLOCK for Vehicle 452 to Industrial Park
+Time: 29m20s - Junction A: GRIDLOCK for Vehicle 379 to Industrial Park
+Time: 29m30s - Junction A: Vehicle 382 moved to Industrial Park
+Time: 29m30s - Junction A: GRIDLOCK for Vehicle 440 to Industrial Park
+Time: 29m40s - Junction A: Vehicle 452 moved to Industrial Park
+Time: 29m40s - Junction A: GRIDLOCK for Vehicle 496 to Industrial Park
+Time: 29m50s - Junction A: Vehicle 379 moved to Industrial Park
+Time: 29m50s - Junction A: GRIDLOCK for Vehicle 440 to Industrial Park
+Time: 29m50s - Junction A: GRIDLOCK for Vehicle 496 to Industrial Park
+Time: 30m0s - Junction A: Green phase ended: 8 cars through from From B, 5 waiting.
+Time: 30m0s - Junction A: Vehicle 368 moved to Industrial Park
+Time: 30m0s - Junction A: GRIDLOCK for Vehicle 371 to Industrial Park
+Time: 30m10s - Junction A: Vehicle 373 moved to Shopping Centre
+Time: 30m20s - Junction A: Vehicle 376 moved to Station
+Time: 30m20s - Junction A: Vehicle 378 moved to Industrial Park
+Time: 30m30s - Junction A: Vehicle 380 moved to Shopping Centre
+Time: 30m30s - Junction A: Vehicle 383 moved to Station
+Time: 30m40s - Junction A: Vehicle 385 moved to University
+Time: 30m40s - Junction A: Vehicle 388 moved to Station
+Time: 30m40s - Junction A: GRIDLOCK for Vehicle 390 to Shopping Centre
+Time: 30m50s - Junction A: GRIDLOCK for Vehicle 393 to Station
+Time: 30m50s - Junction A: GRIDLOCK for Vehicle 395 to Station
+Time: 31m0s - Junction A: GRIDLOCK for Vehicle 268 to Shopping Centre
+Time: 31m0s - Junction A: GRIDLOCK for Vehicle 398 to University
+Time: 31m10s - Junction A: GRIDLOCK for Vehicle 270 to Shopping Centre
+Time: 31m10s - Junction A: GRIDLOCK for Vehicle 400 to Shopping Centre
+Time: 31m20s - Junction A: GRIDLOCK for Vehicle 273 to Shopping Centre
+Time: 31m30s - Junction A: Vehicle 402 moved to Industrial Park
+Time: 31m30s - Junction A: Green phase ended: 9 cars through from From South, 60 waiting.
+Time: 31m30s - Junction A: Vehicle 523 moved to Industrial Park
+Time: 31m40s - Junction A: Vehicle 462 moved to Industrial Park
+Time: 31m40s - Junction A: Vehicle 440 moved to Industrial Park
+Time: 31m50s - Junction A: Vehicle 468 moved to Industrial Park
+Time: 31m50s - Junction A: Vehicle 496 moved to Industrial Park
+Time: 32m0s - Junction A: Vehicle 389 moved to Industrial Park
+Time: 32m0s - Junction A: Vehicle 392 moved to Industrial Park
+Time: 33m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
+Time: 33m0s - Junction A: Vehicle 278 moved to University
+Time: 33m10s - Junction A: Vehicle 280 moved to Shopping Centre
+Time: 33m10s - Junction A: Vehicle 405 moved to Industrial Park
+Time: 33m20s - Junction A: Vehicle 283 moved to Shopping Centre
+Time: 33m20s - Junction A: Vehicle 407 moved to Station
+Time: 33m30s - Junction A: Vehicle 285 moved to Station
+Time: 33m30s - Junction A: Vehicle 439 moved to Industrial Park
+Time: 33m40s - Junction A: Vehicle 442 moved to Industrial Park
+Time: 33m40s - Junction A: Vehicle 444 moved to Industrial Park
+Time: 33m50s - Junction A: Vehicle 446 moved to Shopping Centre
+Time: 33m50s - Junction A: Vehicle 449 moved to Industrial Park
+Time: 34m0s - Junction A: Vehicle 451 moved to University
+Time: 34m0s - Junction A: GRIDLOCK for Vehicle 454 to Shopping Centre
+Time: 34m0s - Junction A: GRIDLOCK for Vehicle 456 to Shopping Centre
+Time: 34m10s - Junction A: Vehicle 459 moved to Industrial Park
+Time: 34m10s - Junction A: GRIDLOCK for Vehicle 322 to Shopping Centre
+Time: 34m20s - Junction A: GRIDLOCK for Vehicle 461 to Shopping Centre
+Time: 34m20s - Junction A: GRIDLOCK for Vehicle 324 to Shopping Centre
+Time: 34m30s - Junction A: Green phase ended: 13 cars through from From South, 58 waiting.
+Time: 34m30s - Junction A: Vehicle 540 moved to Industrial Park
+Time: 34m40s - Junction A: Vehicle 567 moved to Industrial Park
+Time: 34m40s - Junction A: Vehicle 589 moved to Industrial Park
+Time: 34m50s - Junction A: Vehicle 599 moved to Industrial Park
+Time: 34m50s - Junction A: Vehicle 606 moved to Industrial Park
+Time: 35m0s - Junction A: Vehicle 411 moved to Industrial Park
+Time: 35m0s - Junction A: Vehicle 414 moved to Industrial Park
+Time: 35m10s - Junction A: Vehicle 416 moved to Industrial Park
+Time: 35m10s - Junction A: Vehicle 421 moved to Industrial Park
+Time: 35m20s - Junction A: Vehicle 333 moved to Industrial Park
+Time: 35m20s - Junction A: Vehicle 404 moved to Industrial Park
+Time: 35m30s - Junction A: Vehicle 409 moved to Industrial Park
+Time: 35m30s - Junction A: GRIDLOCK for Vehicle 436 to Industrial Park
+Time: 35m40s - Junction A: Vehicle 438 moved to Industrial Park
+Time: 35m40s - Junction A: GRIDLOCK for Vehicle 450 to Industrial Park
+Time: 35m40s - Junction A: GRIDLOCK for Vehicle 477 to Industrial Park
+Time: 35m50s - Junction A: Vehicle 482 moved to Industrial Park
+Time: 35m50s - Junction A: GRIDLOCK for Vehicle 436 to Industrial Park
+Time: 36m0s - Junction A: Green phase ended: 14 cars through from From B, 7 waiting.
+Time: 36m0s - Junction A: Vehicle 327 moved to Shopping Centre
+Time: 36m10s - Junction A: Vehicle 464 moved to Industrial Park
+Time: 36m10s - Junction A: Vehicle 466 moved to Station
+Time: 36m20s - Junction A: Vehicle 469 moved to Shopping Centre
+Time: 36m20s - Junction A: Vehicle 471 moved to Station
+Time: 36m30s - Junction A: Vehicle 473 moved to Shopping Centre
+Time: 36m30s - Junction A: Vehicle 217 moved to Shopping Centre
+Time: 36m40s - Junction A: Vehicle 495 moved to Station
+Time: 36m40s - Junction A: Vehicle 498 moved to Shopping Centre
+Time: 36m50s - Junction A: Vehicle 500 moved to Industrial Park
+Time: 36m50s - Junction A: Vehicle 503 moved to Shopping Centre
+Time: 37m0s - Junction A: Vehicle 505 moved to Industrial Park
+Time: 37m0s - Junction A: Vehicle 346 moved to Industrial Park
+Time: 37m10s - Junction A: Vehicle 508 moved to University
+Time: 37m10s - Junction A: Vehicle 351 moved to Industrial Park
+Time: 37m20s - Junction A: Vehicle 510 moved to University
+Time: 37m20s - Junction A: Vehicle 513 moved to Station
+Time: 37m30s - Junction A: Vehicle 515 moved to Shopping Centre
+Time: 37m30s - Junction A: Green phase ended: 18 cars through from From South, 53 waiting.
+Time: 37m30s - Junction A: Vehicle 492 moved to Industrial Park
+Time: 37m40s - Junction A: Vehicle 497 moved to Industrial Park
+Time: 37m40s - Junction A: Vehicle 450 moved to Industrial Park
+Time: 37m50s - Junction A: Vehicle 507 moved to Industrial Park
+Time: 37m50s - Junction A: Vehicle 477 moved to Industrial Park
+Time: 37m50s - Junction A: GRIDLOCK for Vehicle 436 to Industrial Park
+Time: 38m0s - Junction A: Vehicle 519 moved to Industrial Park
+Time: 38m0s - Junction A: GRIDLOCK for Vehicle 633 to Industrial Park
+Time: 38m10s - Junction A: Vehicle 638 moved to Industrial Park
+Time: 38m10s - Junction A: GRIDLOCK for Vehicle 643 to Industrial Park
+Time: 38m20s - Junction A: GRIDLOCK for Vehicle 436 to Industrial Park
+Time: 38m30s - Junction A: Vehicle 655 moved to Industrial Park
+Time: 38m30s - Junction A: GRIDLOCK for Vehicle 660 to Industrial Park
+Time: 38m40s - Junction A: Vehicle 633 moved to Industrial Park
+Time: 38m40s - Junction A: GRIDLOCK for Vehicle 672 to Industrial Park
+Time: 38m50s - Junction A: Vehicle 643 moved to Industrial Park
+Time: 38m50s - Junction A: GRIDLOCK for Vehicle 436 to Industrial Park
+Time: 38m50s - Junction A: GRIDLOCK for Vehicle 687 to Industrial Park
+Time: 39m0s - Junction A: Green phase ended: 10 cars through from From B, 6 waiting.
+Time: 39m0s - Junction A: Vehicle 361 moved to Industrial Park
+Time: 39m0s - Junction A: GRIDLOCK for Vehicle 363 to Industrial Park
+Time: 39m10s - Junction A: Vehicle 517 moved to Industrial Park
+Time: 39m20s - Junction A: Vehicle 520 moved to Station
+Time: 39m20s - Junction A: Vehicle 522 moved to Shopping Centre
+Time: 39m30s - Junction A: Vehicle 525 moved to Shopping Centre
+Time: 39m30s - Junction A: Vehicle 371 moved to Industrial Park
+Time: 39m40s - Junction A: Vehicle 549 moved to Shopping Centre
+Time: 39m40s - Junction A: Vehicle 552 moved to Shopping Centre
+Time: 39m40s - Junction A: GRIDLOCK for Vehicle 554 to Shopping Centre
+Time: 39m50s - Junction A: GRIDLOCK for Vehicle 557 to Station
+Time: 40m0s - Junction A: Vehicle 559 moved to Industrial Park
+Time: 40m0s - Junction A: GRIDLOCK for Vehicle 390 to Shopping Centre
+Time: 40m0s - Junction A: GRIDLOCK for Vehicle 561 to Shopping Centre
+Time: 40m10s - Junction A: GRIDLOCK for Vehicle 393 to Station
+Time: 40m20s - Junction A: Vehicle 564 moved to Industrial Park
+Time: 40m20s - Junction A: GRIDLOCK for Vehicle 395 to Station
+Time: 40m20s - Junction A: GRIDLOCK for Vehicle 268 to Shopping Centre
+Time: 40m30s - Junction A: Green phase ended: 10 cars through from From South, 60 waiting.
+Time: 40m30s - Junction A: Vehicle 660 moved to Industrial Park
+Time: 40m40s - Junction A: Vehicle 693 moved to Industrial Park
+Time: 40m40s - Junction A: Vehicle 672 moved to Industrial Park
+Time: 40m50s - Junction A: Vehicle 699 moved to Industrial Park
+Time: 40m50s - Junction A: Vehicle 436 moved to Industrial Park
+Time: 40m50s - Junction A: GRIDLOCK for Vehicle 687 to Industrial Park
+Time: 41m0s - Junction A: Vehicle 526 moved to Industrial Park
+Time: 41m0s - Junction A: GRIDLOCK for Vehicle 687 to Industrial Park
+Time: 41m10s - Junction A: Vehicle 687 moved to Industrial Park
+Time: 42m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
+Time: 42m0s - Junction A: Vehicle 566 moved to Industrial Park
+Time: 42m10s - Junction A: Vehicle 398 moved to University
+Time: 42m10s - Junction A: Vehicle 270 moved to Shopping Centre
+Time: 42m20s - Junction A: Vehicle 400 moved to Shopping Centre
+Time: 42m20s - Junction A: Vehicle 273 moved to Shopping Centre
+Time: 42m30s - Junction A: Vehicle 574 moved to Industrial Park
+Time: 42m30s - Junction A: Vehicle 603 moved to Industrial Park
+Time: 42m40s - Junction A: Vehicle 605 moved to Industrial Park
+Time: 42m40s - Junction A: Vehicle 608 moved to Industrial Park
+Time: 42m50s - Junction A: Vehicle 610 moved to Industrial Park
+Time: 42m50s - Junction A: Vehicle 613 moved to Industrial Park
+Time: 43m0s - Junction A: Vehicle 615 moved to Industrial Park
+Time: 43m0s - Junction A: Vehicle 618 moved to Shopping Centre
+Time: 43m10s - Junction A: Vehicle 620 moved to Station
+Time: 43m10s - Junction A: Vehicle 454 moved to Shopping Centre
+Time: 43m10s - Junction A: GRIDLOCK for Vehicle 456 to Shopping Centre
+Time: 43m20s - Junction A: Vehicle 623 moved to Industrial Park
+Time: 43m20s - Junction A: GRIDLOCK for Vehicle 322 to Shopping Centre
+Time: 43m30s - Junction A: Green phase ended: 16 cars through from From South, 56 waiting.
+Time: 43m30s - Junction A: Vehicle 715 moved to Industrial Park
+Time: 43m40s - Junction A: Vehicle 726 moved to Industrial Park
+Time: 43m40s - Junction A: Vehicle 743 moved to Industrial Park
+Time: 43m40s - Junction A: GRIDLOCK for Vehicle 753 to Industrial Park
+Time: 43m50s - Junction A: Vehicle 758 moved to Industrial Park
+Time: 43m50s - Junction A: GRIDLOCK for Vehicle 780 to Industrial Park
+Time: 44m0s - Junction A: Vehicle 556 moved to Industrial Park
+Time: 44m0s - Junction A: GRIDLOCK for Vehicle 529 to Industrial Park
+Time: 44m10s - Junction A: Vehicle 531 moved to Industrial Park
+Time: 44m10s - Junction A: GRIDLOCK for Vehicle 753 to Industrial Park
+Time: 44m20s - Junction A: GRIDLOCK for Vehicle 536 to Industrial Park
+Time: 44m30s - Junction A: Vehicle 780 moved to Industrial Park
+Time: 44m30s - Junction A: GRIDLOCK for Vehicle 553 to Industrial Park
+Time: 44m40s - Junction A: Vehicle 529 moved to Industrial Park
+Time: 44m40s - Junction A: GRIDLOCK for Vehicle 587 to Industrial Park
+Time: 44m40s - Junction A: GRIDLOCK for Vehicle 753 to Industrial Park
+Time: 44m50s - Junction A: Vehicle 592 moved to Industrial Park
+Time: 44m50s - Junction A: GRIDLOCK for Vehicle 536 to Industrial Park
+Time: 45m0s - Junction A: Green phase ended: 9 cars through from From B, 7 waiting.
+Time: 45m0s - Junction A: Vehicle 625 moved to Industrial Park
+Time: 45m10s - Junction A: Vehicle 461 moved to Shopping Centre
+Time: 45m10s - Junction A: Vehicle 627 moved to Industrial Park
+Time: 45m20s - Junction A: Vehicle 324 moved to Shopping Centre
+Time: 45m20s - Junction A: Vehicle 630 moved to Shopping Centre
+Time: 45m30s - Junction A: Vehicle 632 moved to Station
+Time: 45m30s - Junction A: Vehicle 659 moved to Station
+Time: 45m40s - Junction A: Vehicle 662 moved to University
+Time: 45m40s - Junction A: Vehicle 664 moved to Industrial Park
+Time: 45m50s - Junction A: Vehicle 667 moved to Industrial Park
+Time: 45m50s - Junction A: Vehicle 669 moved to Shopping Centre
+Time: 46m0s - Junction A: Vehicle 671 moved to Industrial Park
+Time: 46m0s - Junction A: Vehicle 674 moved to Shopping Centre
+Time: 46m10s - Junction A: Vehicle 676 moved to Shopping Centre
+Time: 46m10s - Junction A: Vehicle 679 moved to Shopping Centre
+Time: 46m20s - Junction A: Vehicle 681 moved to Industrial Park
+Time: 46m20s - Junction A: Vehicle 684 moved to Shopping Centre
+Time: 46m30s - Junction A: Vehicle 686 moved to Shopping Centre
+Time: 46m30s - Junction A: Green phase ended: 18 cars through from From South, 53 waiting.
+Time: 46m30s - Junction A: Vehicle 553 moved to Industrial Park
+Time: 46m40s - Junction A: Vehicle 648 moved to Industrial Park
+Time: 46m40s - Junction A: Vehicle 587 moved to Industrial Park
+Time: 46m50s - Junction A: Vehicle 455 moved to Industrial Park
+Time: 46m50s - Junction A: GRIDLOCK for Vehicle 753 to Industrial Park
+Time: 46m50s - Junction A: GRIDLOCK for Vehicle 536 to Industrial Park
+Time: 47m0s - Junction A: Vehicle 541 moved to Industrial Park
+Time: 47m0s - Junction A: GRIDLOCK for Vehicle 809 to Industrial Park
+Time: 47m10s - Junction A: Vehicle 753 moved to Industrial Park
+Time: 47m10s - Junction A: GRIDLOCK for Vehicle 814 to Industrial Park
+Time: 47m20s - Junction A: GRIDLOCK for Vehicle 536 to Industrial Park
+Time: 47m30s - Junction A: Vehicle 809 moved to Industrial Park
+Time: 47m30s - Junction A: GRIDLOCK for Vehicle 814 to Industrial Park
+Time: 47m40s - Junction A: Vehicle 841 moved to Industrial Park
+Time: 47m40s - Junction A: GRIDLOCK for Vehicle 536 to Industrial Park
+Time: 47m50s - Junction A: Vehicle 846 moved to Industrial Park
+Time: 47m50s - Junction A: GRIDLOCK for Vehicle 814 to Industrial Park
+Time: 47m50s - Junction A: GRIDLOCK for Vehicle 536 to Industrial Park
+Time: 48m0s - Junction A: Green phase ended: 9 cars through from From B, 3 waiting.
+Time: 48m0s - Junction A: Vehicle 689 moved to University
+Time: 48m10s - Junction A: Vehicle 691 moved to Industrial Park
+Time: 48m10s - Junction A: Vehicle 694 moved to Industrial Park
+Time: 48m10s - Junction A: GRIDLOCK for Vehicle 696 to Industrial Park
+Time: 48m20s - Junction A: Vehicle 698 moved to Station
+Time: 48m30s - Junction A: Vehicle 701 moved to Station
+Time: 48m30s - Junction A: Vehicle 713 moved to Industrial Park
+Time: 48m40s - Junction A: Vehicle 363 moved to Industrial Park
+Time: 48m40s - Junction A: Vehicle 716 moved to Shopping Centre
+Time: 48m50s - Junction A: Vehicle 718 moved to Shopping Centre
+Time: 48m50s - Junction A: Vehicle 720 moved to University
+Time: 48m50s - Junction A: GRIDLOCK for Vehicle 723 to Station
+Time: 49m0s - Junction A: Vehicle 725 moved to Industrial Park
+Time: 49m0s - Junction A: GRIDLOCK for Vehicle 554 to Shopping Centre
+Time: 49m10s - Junction A: GRIDLOCK for Vehicle 557 to Station
+Time: 49m20s - Junction A: Vehicle 728 moved to Industrial Park
+Time: 49m20s - Junction A: GRIDLOCK for Vehicle 730 to Shopping Centre
+Time: 49m20s - Junction A: GRIDLOCK for Vehicle 390 to Shopping Centre
+Time: 49m30s - Junction A: Green phase ended: 12 cars through from From South, 59 waiting.
+Time: 49m30s - Junction A: Vehicle 814 moved to Industrial Park
+Time: 49m40s - Junction A: Vehicle 868 moved to Industrial Park
+Time: 49m40s - Junction A: Vehicle 536 moved to Industrial Park
+Time: 49m50s - Junction A: Vehicle 646 moved to Industrial Park
+Time: 49m50s - Junction A: GRIDLOCK for Vehicle 585 to Industrial Park
+Time: 49m50s - Junction A: GRIDLOCK for Vehicle 656 to Industrial Park
+Time: 50m0s - Junction A: Vehicle 658 moved to Industrial Park
+Time: 50m0s - Junction A: GRIDLOCK for Vehicle 585 to Industrial Park
+Time: 50m10s - Junction A: Vehicle 656 moved to Industrial Park
+Time: 50m10s - Junction A: GRIDLOCK for Vehicle 585 to Industrial Park
+Time: 50m20s - Junction A: Vehicle 585 moved to Industrial Park
+Time: 51m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
+Time: 51m0s - Junction A: Vehicle 561 moved to Shopping Centre
+Time: 51m10s - Junction A: Vehicle 733 moved to University
+Time: 51m10s - Junction A: Vehicle 393 moved to Station
+Time: 51m20s - Junction A: Vehicle 395 moved to Station
+Time: 51m20s - Junction A: Vehicle 738 moved to Station
+Time: 51m30s - Junction A: Vehicle 268 moved to Shopping Centre
+Time: 51m30s - Junction A: Vehicle 767 moved to Shopping Centre
+Time: 51m40s - Junction A: Vehicle 769 moved to Industrial Park
+Time: 51m40s - Junction A: Vehicle 772 moved to Industrial Park
+Time: 51m40s - Junction A: GRIDLOCK for Vehicle 774 to Station
+Time: 51m50s - Junction A: GRIDLOCK for Vehicle 777 to Station
+Time: 52m0s - Junction A: Vehicle 779 moved to Industrial Park
+Time: 52m0s - Junction A: Vehicle 782 moved to Industrial Park
+Time: 52m0s - Junction A: GRIDLOCK for Vehicle 784 to Station
+Time: 52m10s - Junction A: Vehicle 786 moved to Industrial Park
+Time: 52m10s - Junction A: GRIDLOCK for Vehicle 789 to University
+Time: 52m20s - Junction A: GRIDLOCK for Vehicle 456 to Shopping Centre
+Time: 52m20s - Junction A: GRIDLOCK for Vehicle 791 to Shopping Centre
+Time: 52m30s - Junction A: Green phase ended: 12 cars through from From South, 59 waiting.
+Time: 52m30s - Junction A: Vehicle 885 moved to Industrial Park
+Time: 52m40s - Junction A: Vehicle 895 moved to Industrial Park
+Time: 52m40s - Junction A: Vehicle 902 moved to Industrial Park
+Time: 52m50s - Junction A: Vehicle 907 moved to Industrial Park
+Time: 52m50s - Junction A: Vehicle 939 moved to Industrial Park
+Time: 53m0s - Junction A: Vehicle 946 moved to Industrial Park
+Time: 53m0s - Junction A: Vehicle 956 moved to Industrial Park
+Time: 53m10s - Junction A: Vehicle 690 moved to Industrial Park
+Time: 53m10s - Junction A: Vehicle 692 moved to Industrial Park
+Time: 53m10s - Junction A: GRIDLOCK for Vehicle 705 to Industrial Park
+Time: 53m20s - Junction A: GRIDLOCK for Vehicle 707 to Industrial Park
+Time: 53m30s - Junction A: Vehicle 688 moved to Industrial Park
+Time: 53m30s - Junction A: GRIDLOCK for Vehicle 595 to Industrial Park
+Time: 53m40s - Junction A: Vehicle 467 moved to Industrial Park
+Time: 53m40s - Junction A: GRIDLOCK for Vehicle 597 to Industrial Park
+Time: 53m40s - Junction A: GRIDLOCK for Vehicle 705 to Industrial Park
+Time: 53m50s - Junction A: Vehicle 470 moved to Industrial Park
+Time: 53m50s - Junction A: GRIDLOCK for Vehicle 707 to Industrial Park
+Time: 54m0s - Junction A: Green phase ended: 12 cars through from From B, 7 waiting.
+Time: 54m0s - Junction A: Vehicle 322 moved to Shopping Centre
+Time: 54m10s - Junction A: Vehicle 794 moved to Station
+Time: 54m10s - Junction A: Vehicle 796 moved to Industrial Park
+Time: 54m20s - Junction A: Vehicle 799 moved to Shopping Centre
+Time: 54m20s - Junction A: Vehicle 801 moved to Shopping Centre
+Time: 54m30s - Junction A: Vehicle 804 moved to Industrial Park
+Time: 54m30s - Junction A: Vehicle 823 moved to Shopping Centre
+Time: 54m40s - Junction A: Vehicle 826 moved to Industrial Park
+Time: 54m40s - Junction A: Vehicle 828 moved to Shopping Centre
+Time: 54m50s - Junction A: Vehicle 830 moved to Station
+Time: 54m50s - Junction A: Vehicle 833 moved to Industrial Park
+Time: 55m0s - Junction A: Vehicle 835 moved to Shopping Centre
+Time: 55m0s - Junction A: Vehicle 838 moved to Industrial Park
+Time: 55m10s - Junction A: Vehicle 840 moved to Industrial Park
+Time: 55m10s - Junction A: Vehicle 843 moved to Shopping Centre
+Time: 55m20s - Junction A: Vehicle 845 moved to Industrial Park
+Time: 55m20s - Junction A: Vehicle 848 moved to Station
+Time: 55m30s - Junction A: Vehicle 850 moved to Industrial Park
+Time: 55m30s - Junction A: Green phase ended: 18 cars through from From South, 54 waiting.
+Time: 55m30s - Junction A: GRIDLOCK for Vehicle 595 to Industrial Park
+Time: 55m40s - Junction A: Vehicle 812 moved to Industrial Park
+Time: 55m40s - Junction A: GRIDLOCK for Vehicle 597 to Industrial Park
+Time: 55m40s - Junction A: GRIDLOCK for Vehicle 817 to Industrial Park
+Time: 55m50s - Junction A: Vehicle 705 moved to Industrial Park
+Time: 55m50s - Junction A: GRIDLOCK for Vehicle 827 to Industrial Park
+Time: 56m0s - Junction A: Vehicle 707 moved to Industrial Park
+Time: 56m0s - Junction A: GRIDLOCK for Vehicle 595 to Industrial Park
+Time: 56m10s - Junction A: Vehicle 597 moved to Industrial Park
+Time: 56m10s - Junction A: GRIDLOCK for Vehicle 817 to Industrial Park
+Time: 56m20s - Junction A: GRIDLOCK for Vehicle 973 to Industrial Park
+Time: 56m30s - Junction A: Vehicle 827 moved to Industrial Park
+Time: 56m30s - Junction A: GRIDLOCK for Vehicle 982 to Industrial Park
+Time: 56m40s - Junction A: Vehicle 595 moved to Industrial Park
+Time: 56m40s - Junction A: GRIDLOCK for Vehicle 997 to Industrial Park
+Time: 56m50s - Junction A: Vehicle 817 moved to Industrial Park
+Time: 56m50s - Junction A: GRIDLOCK for Vehicle 973 to Industrial Park
+Time: 56m50s - Junction A: GRIDLOCK for Vehicle 1007 to Industrial Park
+Time: 57m0s - Junction A: Green phase ended: 7 cars through from From B, 7 waiting.
+Time: 57m0s - Junction A: Vehicle 852 moved to Shopping Centre
+Time: 57m10s - Junction A: Vehicle 855 moved to Shopping Centre
+Time: 57m10s - Junction A: Vehicle 857 moved to Shopping Centre
+Time: 57m20s - Junction A: Vehicle 860 moved to Shopping Centre
+Time: 57m20s - Junction A: Vehicle 862 moved to Industrial Park
+Time: 57m30s - Junction A: Vehicle 865 moved to Shopping Centre
+Time: 57m30s - Junction A: Vehicle 879 moved to Industrial Park
+Time: 57m40s - Junction A: Vehicle 696 moved to Industrial Park
+Time: 57m40s - Junction A: Vehicle 882 moved to Shopping Centre
+Time: 57m50s - Junction A: Vehicle 884 moved to University
+Time: 57m50s - Junction A: Vehicle 887 moved to Industrial Park
+Time: 58m0s - Junction A: Vehicle 889 moved to Industrial Park
+Time: 58m0s - Junction A: GRIDLOCK for Vehicle 892 to University
+Time: 58m0s - Junction A: GRIDLOCK for Vehicle 723 to Station
+Time: 58m10s - Junction A: GRIDLOCK for Vehicle 894 to University
+Time: 58m20s - Junction A: Vehicle 897 moved to Industrial Park
+Time: 58m20s - Junction A: GRIDLOCK for Vehicle 554 to Shopping Centre
+Time: 58m20s - Junction A: GRIDLOCK for Vehicle 557 to Station
+Time: 58m30s - Junction A: Green phase ended: 13 cars through from From South, 58 waiting.
+Time: 58m30s - Junction A: Vehicle 982 moved to Industrial Park
+Time: 58m40s - Junction A: Vehicle 978 moved to Industrial Park
+Time: 58m40s - Junction A: Vehicle 997 moved to Industrial Park
+Time: 58m50s - Junction A: Vehicle 1017 moved to Industrial Park
+Time: 58m50s - Junction A: GRIDLOCK for Vehicle 973 to Industrial Park
+Time: 58m50s - Junction A: GRIDLOCK for Vehicle 988 to Industrial Park
+Time: 59m0s - Junction A: Vehicle 1007 moved to Industrial Park
+Time: 59m0s - Junction A: GRIDLOCK for Vehicle 973 to Industrial Park
+Time: 59m10s - Junction A: Vehicle 988 moved to Industrial Park
+Time: 59m10s - Junction A: GRIDLOCK for Vehicle 973 to Industrial Park
+Time: 59m20s - Junction A: GRIDLOCK for Vehicle 973 to Industrial Park
+Time: 59m30s - Junction A: Vehicle 973 moved to Industrial Park
+Time: 60m0s - Junction A: Green phase ended: 7 cars through from From B, 0 waiting.
